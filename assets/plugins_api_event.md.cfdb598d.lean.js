@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as n,a}from"./app.b1e5a3e6.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"plugins/api/event.md","lastUpdated":1683652040000}'),l={name:"plugins/api/event.md"},d=a("",1),r=[d];function i(s,c,o,_,p,g){return e(),n("div",null,r)}const y=t(l,[["render",i]]);export{h as __pageData,y as default};
